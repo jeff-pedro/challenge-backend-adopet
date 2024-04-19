@@ -47,7 +47,7 @@ Para a integração da API com o Front-End previamente desponibilizado, explorei
 
 A API abrange rotas para gerenciamento de usuários, pets, abrigos, perfil e permissões. Assim como autenticação de usuários através de login e autorização de acesso as rotas por meio de tokens JWT gererado no login. Além disso, há também o controle via permissão às rotas por perfil de usuário. 
 
-Para os _testes de unidade_ e _integração_ na **API** foi usado [Jest](https://jestjs.io) e para os _testes E2E_ no **Front-end** foi usado o [Cypress](https://www.cypress.io/) como test runner.
+Para os _testes de unidade_ e _integração_ na **API** foi usado [Jest](https://jestjs.io), enquanto para os _testes E2E_ no **Front-end** foi usado o [Cypress](https://www.cypress.io/) como test runner.
 
 Usei o [Docker](https://www.docker.com/) para a construção da imagem e o [Docker Compose](https://docs.docker.com/compose/) para subir a aplicação e o banco de dados localmente para dar suporte ao desenvolvimento e testes. 
 
@@ -57,7 +57,7 @@ O deploy da API e do Front-End é realizado pela plataforma do [Render](https://
 
 Contudo uma refatoração futura do código será necessária após a evolução dos meus estudos.
 
-🚀 [Acesse o site](https://adopet.sapituca.site/) para conhecer o **AdoPet**.
+- 🚀 [Acesse o site](https://adopet.sapituca.site/) para conhecer o **AdoPet**.
 
 ![](./docs/assets/adopet.png)
 
@@ -65,7 +65,7 @@ Contudo uma refatoração futura do código será necessária após a evolução
 
 ## 🏗️ Projetos
 - 🚀 [AdoPet API](https://github.com/jeff-pedro/adopet-api)
-- 🐾 [AdoPet website](https://github.com/jeff-pedro/adopet-client)
+- 🐾 [AdoPet site](https://github.com/jeff-pedro/adopet-client)
 
 </div>
 
