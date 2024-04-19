@@ -5,7 +5,7 @@
   > A **AdoPet 🐾** é uma empresa fictícia que funciona como intermediária entre pessoas que querem adotar pets e ONGs recolhem os animais das ruas.  
 
   <a>Potuguese</a> -
-  <a href="./docs/en/README_en.md">English</a>
+  <a href="./docs/README_en.md">English</a>
 
 </div>
 
