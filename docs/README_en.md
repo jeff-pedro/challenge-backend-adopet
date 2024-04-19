@@ -58,7 +58,7 @@ However, future code refactoring will be necessary after I evolve my studies.
 
 - 🚀 [Visit the AdoPet website](https://adopet.sapituca.site/)
 
-![](./assets/adopet.png)
+<a href='https://adopet.sapituca.site/' target='_blank'><img src="./assets/adopet.png"/></a>
 
 <div id="projects">
 

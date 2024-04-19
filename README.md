@@ -59,7 +59,7 @@ Contudo uma refatoração futura do código será necessária após a evolução
 
 - 🚀 [Acesse o site](https://adopet.sapituca.site/) para conhecer o **AdoPet**.
 
-![](./docs/assets/adopet.png)
+<a href='https://adopet.sapituca.site/' target='_blank'><img src="./docs/assets/adopet.png"/></a>
 
 <div id="projects">
 
