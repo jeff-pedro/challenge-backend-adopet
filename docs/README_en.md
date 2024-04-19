@@ -2,7 +2,7 @@
 
   # Challenge Backend: AdoPet
 
-  > **AdoPet 🐾** is a pseudo company which acts as an intermediary between people who want to adopt pets and NGOs that removing animals from the streets.
+  > **AdoPet 🐾** is a pseudo company that acts as an intermediary between people who want to adopt pets and NGOs that remove animals from the streets.
 
   <a>English</a> -
   <a href="../README.md">Potuguese</a>
@@ -35,7 +35,7 @@
 
 This project is currently in development as a result of a Back-End Challenge exclusively for students of [Alura](https://www.alura.com.br) tech school.
 
-The challenge is to simulate a real work environment in which tasks are made available through Trello with weekly deliveries, for 4 weeks. Each task describes what the fictional client wants to be built. We have the freedom to make changes or follow new approaches depending on needs and creativity. We can also choose the technologies we want to develop the project.
+The challenge is to simulate a real work environment in which tasks are made available through Trello with weekly deliveries, for 4 weeks. Each task describes what the fictional client wants to be built. We have the freedom to make changes or follow new approaches depending on needs and creativity. We can also choose the technologies we want to develop for the project.
 
 
 ## 👨🏽‍💻 About development
@@ -46,7 +46,7 @@ To integrate the API with the previously available Front-End, I explored the res
 
 The API covers routes for managing users, pets, shelters, profiles, and permissions. As well as user authentication through login and authorization of access to routes through JWT tokens generated at login. In addition, there is also control via permission to routes per user profile.
 
-For _unit_ and _integration tests_, the **API** [Jest](https://jestjs.io) was used, while for E2E tests on the **Front-end** [Cypress](https://www.cypress.io/) was used as test runner.
+For _unit_ and _integration tests_, the **API** [Jest](https://jestjs.io) was used, while for E2E tests on the **Front-end** [Cypress](https://www.cypress.io/) was used as a test runner.
 
 I used [Docker](https://www.docker.com/) to build the image and [Docker Compose](https://docs.docker.com/compose/) to run the application and the database locally to support development and testing.
 
@@ -70,7 +70,7 @@ However, future code refactoring will be necessary after I evolve my studies.
 
 ## ⚙️ How to use this repository
 
-This repository consists of two **submodules**, the Adopet api and front-end.
+This repository consists of two **submodules**, the API and the front-end.
 
 It is possible to clone [projects](#projects) individually or through this repository via **[git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).**
 
