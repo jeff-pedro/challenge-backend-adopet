@@ -2,7 +2,12 @@
 
   # Challenge Backend: AdoPet
 
-  > A **AdoPet 🐾** é uma empresa fictícia que funciona como intermediária entre pessoas que querem adotar pets e ONGs recolhem os animais das ruas.  
+  > A **AdoPet 🐾** é uma empresa fictícia que funciona como intermediária entre pessoas que querem adotar pets e ONGs recolhem os animais das ruas.
+
+  <p align="center">
+    <img style='width: 70%' alt="Adopet App" src="./docs/assets/img/adopet-readme-screenshot.png" />
+  </p>
+
 
   <a>Potuguese</a> -
   <a href="./docs/README_en.md">English</a>
@@ -59,7 +64,7 @@ Contudo uma refatoração futura do código será necessária após a evolução
 
 - 🚀 [Acesse o site](https://adopet.sapituca.site/) para conhecer o **AdoPet**.
 
-<a href='https://adopet.sapituca.site/' target='_blank'><img src="./docs/assets/adopet.png"/></a>
+<a href='https://adopet.sapituca.site/' target='_blank'><img src="./docs/assets/img//adopet.png"/></a>
 
 <div id="projects">
 

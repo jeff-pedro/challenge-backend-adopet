@@ -3,6 +3,10 @@
   # Challenge Backend: AdoPet
 
   > **AdoPet 🐾** is a pseudo company that acts as an intermediary between people who want to adopt pets and NGOs that remove animals from the streets.
+  
+  <p align="center">
+    <img style='width: 70%' alt="Adopet App" src="./assets/img/adopet-readme-screenshot.png" />
+  </p>
 
   <a>English</a> -
   <a href="../README.md">Potuguese</a>
